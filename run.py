@@ -4,3 +4,5 @@ print('Bukola')
 print('Adaramola')
 
 print('Dele')
+
+print('My friend')
